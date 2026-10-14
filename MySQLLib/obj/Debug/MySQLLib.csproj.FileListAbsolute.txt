@@ -1,0 +1,504 @@
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\MySQLLib.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\MySql.Data.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\System.Buffers.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\System.Memory.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\ZstdNet.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\MySql.Data.xml
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\System.Buffers.xml
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\System.Memory.xml
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\obj\Debug\MySQLLib.dll
+D:\4.Test\sqldatareader-mapper-master\MySQLLib\obj\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\MySQLLib.dll.config
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\ZstdNet.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.1\03. Discron_Diamond_23112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySQLLib.dll.config
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\ZstdNet.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySQLLib.dll.config
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\ZstdNet.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\03. Discron_Diamond_23112024 ver 1.2_mysql\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySQLLib.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySql.Data.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Buffers.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Memory.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\ZstdNet.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\MySql.Data.xml
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Buffers.xml
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Memory.xml
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.dll
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\RTC\01. Project\03. Discron_Diamond_23112024 ver 1.2_mysql\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\MySql.Data.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\ZstdNet.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\MySql.Data.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\obj\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\04. Discron_Diamond_26112024 ver 1.2\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\MySql.Data.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\ZstdNet.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\MySql.Data.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\06. Discron_Diamond_27112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\MySql.Data.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\ZstdNet.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\MySql.Data.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\07. Discron_Diamond_30112024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\MySQLLib.dll.config
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\ZstdNet.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\07. Discron_Diamond_30112024 ver 1.1\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\MySql.Data.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\ZstdNet.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\MySql.Data.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\08. Discron_Diamond_01122024 ver 1.0\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\MySql.Data.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\ZstdNet.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\MySql.Data.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\MySql.Data.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\ZstdNet.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\MySql.Data.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySql.Data.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Buffers.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Memory.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\ZstdNet.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySql.Data.xml
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Buffers.xml
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Memory.xml
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll.config
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\ZstdNet.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\MySQLLib\obj\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll.config
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\MySQLLib.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\ZstdNet.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.dll
+C:\Users\Lenovo\Desktop\LADI_Project\40. Discron_Diamond_18062025 ver 1.0\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\MySql.Data.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\ZstdNet.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\MySql.Data.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\obj\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\MySql.Data.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\ZstdNet.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\MySql.Data.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\obj\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.0\MySQLLib\obj\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\MySQLLib.dll.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\MySQLLib.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\BouncyCastle.Crypto.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\K4os.Hash.xxHash.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\MySql.Data.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\Ubiety.Dns.Core.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\ZstdNet.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\Google.Protobuf.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\K4os.Hash.xxHash.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\MySql.Data.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\obj\Debug\MySQLLib.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\obj\Debug\MySQLLib.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\MySQLLib\obj\Debug\MySQLLib.pdb

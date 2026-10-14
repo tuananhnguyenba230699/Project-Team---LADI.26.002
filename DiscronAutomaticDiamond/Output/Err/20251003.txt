@@ -1,0 +1,136 @@
+2025/10/03 15:08:36 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27392025/10/03 15:07:36 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC()2025/10/03 15:04:58 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at AutoBrutingDiamond.Class.Lib.UpdateButtonText_BColor_FColor(Button btn, String text, Color bColor, Color fColor) in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Class\Lib.cs:line 236
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27362025/10/03 14:58:59 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27492025/10/03 14:25:47 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27432025/10/03 13:04:21 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27412025/10/03 11:32:49 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27262025/10/03 11:20:54 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27262025/10/03 11:20:06 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1063
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 29282025/10/03 11:20:05 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1062
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 29282025/10/03 11:20:05 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1014
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 29282025/10/03 11:14:55 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27262025/10/03 10:31:49 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27172025/10/03 10:30:07 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1060
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 29192025/10/03 10:30:07 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1059
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 29192025/10/03 10:30:06 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1011
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 29192025/10/03 10:22:08 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27212025/10/03 10:18:48 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\60. Discron_Diamond_021025 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 2721

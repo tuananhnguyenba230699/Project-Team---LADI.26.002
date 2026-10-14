@@ -1,0 +1,72 @@
+2025/09/24 01:19:23 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27142025/09/24 01:18:42 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20162025/09/24 01:18:37 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20162025/09/24 01:18:28 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20162025/09/24 01:17:09 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC()2025/09/24 01:17:09 - Error
+THÔNG SỐ: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at AutoBrutingDiamond.FrmMain.LineFindRun()2025/09/24 01:16:55 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun()2025/09/24 01:16:40 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.get_FrameDimensionsList()
+   at System.Drawing.ImageAnimator.CanAnimate(Image image)
+   at System.Drawing.ImageAnimator.ImageInfo..ctor(Image image)
+   at System.Drawing.ImageAnimator.Animate(Image image, EventHandler onFrameChangedHandler)
+   at System.Windows.Forms.PictureBox.Animate(Boolean animate)
+   at System.Windows.Forms.PictureBox.InstallNewImage(Image value, ImageInstallationType installationType)
+   at AutoBrutingDiamond.FrmMain.DisplayGraphics(GraphicsWindow smartWindow, Object graphicsDisplay, Image`2 inputImage, Color color)
+   at AutoBrutingDiamond.FrmMain.LineFindRun()2025/09/24 01:16:02 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20162025/09/24 01:15:58 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20162025/09/24 01:15:55 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20162025/09/24 01:14:37 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20162025/09/24 01:14:23 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20162025/09/24 01:14:12 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 2016

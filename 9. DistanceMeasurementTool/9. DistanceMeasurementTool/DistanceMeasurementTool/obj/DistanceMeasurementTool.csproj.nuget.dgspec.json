@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj",
+        "projectName": "DistanceMeasurementTool",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj",
+        "projectName": "RTCConst",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

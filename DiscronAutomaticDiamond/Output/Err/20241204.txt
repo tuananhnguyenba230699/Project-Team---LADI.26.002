@@ -1,0 +1,235 @@
+2024/12/04 23:27:17 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15282024/12/04 23:21:39 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC()2024/12/04 22:46:37 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15282024/12/04 22:37:48 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15282024/12/04 21:45:58 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15452024/12/04 21:25:55 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 21:25:02 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 21:22:35 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 21:20:22 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 21:07:10 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 21:06:26 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC()2024/12/04 18:16:28 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 18:15:04 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 18:09:29 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 18:05:35 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 17:53:46 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 17:51:08 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 17:46:27 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 17:40:09 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 17:38:52 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 17:37:27 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15462024/12/04 17:04:34 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15432024/12/04 16:41:46 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC()2024/12/04 16:38:49 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15362024/12/04 16:29:23 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15362024/12/04 16:24:40 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15362024/12/04 16:18:16 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15362024/12/04 16:14:25 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15362024/12/04 15:58:47 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15422024/12/04 15:57:38 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC()2024/12/04 15:48:02 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15432024/12/04 13:55:35 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15302024/12/04 13:53:50 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15302024/12/04 13:46:04 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15302024/12/04 11:18:32 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15522024/12/04 09:15:53 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15612024/12/04 09:10:14 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15722024/12/04 08:38:33 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 15682024/12/04 08:35:13 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DiscronDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\10. Discron_Diamond_04122024 ver 1.1\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1550

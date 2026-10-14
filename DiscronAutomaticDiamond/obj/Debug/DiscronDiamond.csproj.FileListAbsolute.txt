@@ -1,0 +1,8 @@
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\DiscronAutomaticDiamond\obj\Debug\DiscronDiamond.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\DiscronAutomaticDiamond\obj\Debug\AutoBrutingDiamond.exe.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\DiscronAutomaticDiamond\obj\Debug\AutoBrutingDiamond.FrmErrorDetail.resources
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\DiscronAutomaticDiamond\obj\Debug\AutoBrutingDiamond.Forms.FrmRegisterAddressDetail.resources
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\DiscronAutomaticDiamond\obj\Debug\AutoBrutingDiamond.FrmMain.resources
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\DiscronAutomaticDiamond\obj\Debug\AutoBrutingDiamond.Forms.FrmRegisterTeachingPLC.resources
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\DiscronAutomaticDiamond\obj\Debug\AutoBrutingDiamond.Properties.Resources.resources
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\DiscronAutomaticDiamond\obj\Debug\DiscronDiamond.csproj.GenerateResource.cache

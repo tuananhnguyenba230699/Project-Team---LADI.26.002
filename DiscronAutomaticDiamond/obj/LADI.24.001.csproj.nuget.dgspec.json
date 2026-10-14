@@ -1,0 +1,508 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\LADI.24.001\\LADI.24.001.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\15. Blob_View\\Blob Filter\\Blob View.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\15. Blob_View\\Blob Filter\\Blob View.csproj",
+        "projectName": "Blob View",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\15. Blob_View\\Blob Filter\\Blob View.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\15. Blob_View\\Blob Filter\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\2. Blob_Muilti_ROI\\Blob_Muilti_ROI\\Blob_Muilti_ROI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\2. Blob_Muilti_ROI\\Blob_Muilti_ROI\\Blob_Muilti_ROI.csproj",
+        "projectName": "Blob_Muilti_ROI",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\2. Blob_Muilti_ROI\\Blob_Muilti_ROI\\Blob_Muilti_ROI.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\2. Blob_Muilti_ROI\\Blob_Muilti_ROI\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\5 FindLineTool\\FindLineTool\\FindLineTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\5 FindLineTool\\FindLineTool\\FindLineTool.csproj",
+        "projectName": "FindLineTool",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\5 FindLineTool\\FindLineTool\\FindLineTool.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\5 FindLineTool\\FindLineTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            },
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj",
+        "projectName": "DistanceMeasurementTool",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\GraphiscWindow\\GraphicsWindow.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\GraphiscWindow\\GraphicsWindow.csproj",
+        "projectName": "GraphicsWindow",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\GraphiscWindow\\GraphicsWindow.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\LADI.24.001\\LADI.24.001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\LADI.24.001\\LADI.24.001.csproj",
+        "projectName": "LADI.24.001",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\LADI.24.001\\LADI.24.001.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\LADI.24.001\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\15. Blob_View\\Blob Filter\\Blob View.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\15. Blob_View\\Blob Filter\\Blob View.csproj"
+              },
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\2. Blob_Muilti_ROI\\Blob_Muilti_ROI\\Blob_Muilti_ROI.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\2. Blob_Muilti_ROI\\Blob_Muilti_ROI\\Blob_Muilti_ROI.csproj"
+              },
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\5 FindLineTool\\FindLineTool\\FindLineTool.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\5 FindLineTool\\FindLineTool\\FindLineTool.csproj"
+              },
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj"
+              },
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\GraphiscWindow\\GraphicsWindow.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\GraphiscWindow\\GraphicsWindow.csproj"
+              },
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCBaslerSdk (1)\\RTCBaslerSdk.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCBaslerSdk (1)\\RTCBaslerSdk.csproj"
+              },
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj"
+              },
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCHikSdk\\RTCHikSdk.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCHikSdk\\RTCHikSdk.csproj"
+              },
+              "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\SetOrigin\\SetOrigin\\SetOrigin.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\SetOrigin\\SetOrigin\\SetOrigin.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.UI": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCBaslerSdk (1)\\RTCBaslerSdk.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCBaslerSdk (1)\\RTCBaslerSdk.csproj",
+        "projectName": "RTCBaslerSdk",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCBaslerSdk (1)\\RTCBaslerSdk.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj",
+        "projectName": "RTCConst",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCConst\\RTCConst.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCHikSdk\\RTCHikSdk.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCHikSdk\\RTCHikSdk.csproj",
+        "projectName": "RTCHikSdk",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\RTCHikSdk\\RTCHikSdk.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\SetOrigin\\SetOrigin\\SetOrigin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\SetOrigin\\SetOrigin\\SetOrigin.csproj",
+        "projectName": "SetOrigin",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\SetOrigin\\SetOrigin\\SetOrigin.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\LADI_Project\\2024-10-15-LADI.24.001 ver2\\LADI.24.001\\SetOrigin\\SetOrigin\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

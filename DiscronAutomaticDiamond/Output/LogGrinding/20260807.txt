@@ -1,0 +1,1339 @@
+2026/08/07 12:07:36 - LOG
+MESSAGE: 
+11. Cycletime hoàn thành = [93417]!2026/08/07 12:07:36 - LOG
+MESSAGE: 
+10. Xác nhận hoàn thành chu trình mài2026/08/07 12:07:26 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:07:26 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:07:26 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:07:26 - LOG
+MESSAGE: 
+6. Tính toán giá trị cần mài còn lại -15.3065 : OK2026/08/07 12:07:26 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 22026/08/07 12:07:26 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2!2026/08/07 12:07:26 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [784]!2026/08/07 12:07:25 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:07:25 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:07:25 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:07:22 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:07:22 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:07:22 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:07:22 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 21.0271 : NG2026/08/07 12:07:22 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 52026/08/07 12:07:22 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 5!2026/08/07 12:07:22 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [748]!2026/08/07 12:07:21 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:07:21 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:07:21 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:07:19 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:07:19 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:07:19 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:07:19 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 55.7092 : NG2026/08/07 12:07:19 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:07:19 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:07:18 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [745]!2026/08/07 12:07:18 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:07:18 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:07:18 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:07:15 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:07:15 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:07:15 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:07:15 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 40.8455 : NG2026/08/07 12:07:15 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:07:15 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:07:15 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [757]!2026/08/07 12:07:14 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:07:14 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:07:14 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:07:11 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:07:11 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:07:11 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:07:11 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 27.6333 : NG2026/08/07 12:07:11 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 52026/08/07 12:07:11 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 5!2026/08/07 12:07:11 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [761]!2026/08/07 12:07:11 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:07:11 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:07:11 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:07:08 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:07:08 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:07:08 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:07:08 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 87.0882 : NG2026/08/07 12:07:08 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:07:08 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:07:08 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [759]!2026/08/07 12:07:07 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:07:07 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:07:07 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:07:04 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:07:04 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:07:04 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:07:04 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 106.9066 : NG2026/08/07 12:07:04 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:07:04 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:07:04 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [760]!2026/08/07 12:07:03 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:07:03 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:07:03 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:07:01 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:07:01 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:07:01 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:07:01 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 6.1634 : NG2026/08/07 12:07:01 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 22026/08/07 12:07:01 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2!2026/08/07 12:07:01 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [735]!2026/08/07 12:07:00 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:07:00 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:07:00 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:57 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:57 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:57 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:57 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 9.4664 : NG2026/08/07 12:06:57 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 22026/08/07 12:06:57 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2!2026/08/07 12:06:57 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [726]!2026/08/07 12:06:56 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:56 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:56 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:54 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:54 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:54 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:54 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 11.1180 : NG2026/08/07 12:06:54 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 52026/08/07 12:06:54 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 5!2026/08/07 12:06:53 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [693]!2026/08/07 12:06:53 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:53 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:53 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:50 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:50 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:50 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:50 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 17.7241 : NG2026/08/07 12:06:50 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 52026/08/07 12:06:50 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 5!2026/08/07 12:06:50 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [816]!2026/08/07 12:06:49 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:49 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:49 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:46 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:46 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:46 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:46 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 24.3302 : NG2026/08/07 12:06:46 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 52026/08/07 12:06:46 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 5!2026/08/07 12:06:46 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [757]!2026/08/07 12:06:46 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:46 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:46 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:43 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:43 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:43 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:43 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 49.1031 : NG2026/08/07 12:06:43 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:06:43 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:06:43 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [766]!2026/08/07 12:06:42 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:42 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:42 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:39 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:39 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:39 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:39 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 62.3153 : NG2026/08/07 12:06:39 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:06:39 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:06:39 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [812]!2026/08/07 12:06:38 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:38 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:38 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:36 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:36 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:36 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:36 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 78.8306 : NG2026/08/07 12:06:36 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:06:36 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:06:36 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [776]!2026/08/07 12:06:35 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:35 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:35 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:32 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:32 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:32 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:32 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 93.6944 : NG2026/08/07 12:06:32 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:06:32 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:06:32 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [697]!2026/08/07 12:06:31 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:31 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:31 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:29 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:28 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:28 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:28 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 106.9066 : NG2026/08/07 12:06:28 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:06:28 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:06:28 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [817]!2026/08/07 12:06:28 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:28 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:28 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:25 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:25 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:25 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:25 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 110.2096 : NG2026/08/07 12:06:25 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:06:25 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:06:25 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [815]!2026/08/07 12:06:24 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:24 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:24 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:21 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:21 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:21 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:21 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 111.8612 : NG2026/08/07 12:06:21 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:06:21 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:06:21 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [758]!2026/08/07 12:06:20 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:20 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:20 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:18 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:18 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:18 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:18 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 111.8612 : NG2026/08/07 12:06:18 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:06:18 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:06:18 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [789]!2026/08/07 12:06:17 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:17 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:17 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:14 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:14 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:14 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:14 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 110.2096 : NG2026/08/07 12:06:14 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:06:14 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:06:14 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [757]!2026/08/07 12:06:13 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:13 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:13 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:11 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:11 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:11 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:11 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 113.5127 : NG2026/08/07 12:06:11 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 32026/08/07 12:06:11 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 3!2026/08/07 12:06:11 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [823]!2026/08/07 12:06:10 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:10 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:10 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:07 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:07 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:07 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:07 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 115.1642 : NG2026/08/07 12:06:07 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 272026/08/07 12:06:07 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 27!2026/08/07 12:06:07 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [806]!2026/08/07 12:06:06 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:06 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:06 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:03 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:06:03 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:06:03 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:06:03 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 115.1642 : NG2026/08/07 12:06:03 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 26292026/08/07 12:06:03 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2629!2026/08/07 12:06:03 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [749]!2026/08/07 12:06:02 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:06:02 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:06:02 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:06:02 - LOG
+MESSAGE: 
+START2026/08/07 12:05:58 - LOG
+MESSAGE: 
+END - 14. Đọc bit từ PLC hiển thị cảnh báo siết lực
+Cycletime: 75932026/08/07 12:05:39 - LOG
+MESSAGE: 
+11. Cycletime hoàn thành = [214034]!2026/08/07 12:05:39 - LOG
+MESSAGE: 
+10. Xác nhận hoàn thành chu trình mài2026/08/07 12:05:29 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:05:29 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:05:29 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:05:29 - LOG
+MESSAGE: 
+6. Tính toán giá trị cần mài còn lại -2.4872 : OK2026/08/07 12:05:29 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 22026/08/07 12:05:29 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2!2026/08/07 12:05:28 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [787]!2026/08/07 12:05:28 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:05:28 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:05:28 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:05:25 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:05:25 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:05:25 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:05:25 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 4.1189 : NG2026/08/07 12:05:25 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 22026/08/07 12:05:25 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2!2026/08/07 12:05:25 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [726]!2026/08/07 12:05:24 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:05:24 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:05:24 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:05:22 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:05:21 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:05:21 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:05:21 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 5.7704 : NG2026/08/07 12:05:21 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 22026/08/07 12:05:21 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2!2026/08/07 12:05:21 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [798]!2026/08/07 12:05:21 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:05:21 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:05:21 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:05:18 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:05:18 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:05:18 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:05:18 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 15.6796 : NG2026/08/07 12:05:18 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 52026/08/07 12:05:18 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 5!2026/08/07 12:05:18 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [750]!2026/08/07 12:05:17 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:05:17 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:05:17 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:05:14 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:05:14 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:05:14 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:05:14 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 33.8464 : NG2026/08/07 12:05:14 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:05:14 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:05:14 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [732]!2026/08/07 12:05:14 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:05:14 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:05:13 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:05:11 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:05:11 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:05:11 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:05:11 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 43.7556 : NG2026/08/07 12:05:11 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:05:11 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:05:11 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [709]!2026/08/07 12:05:10 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:05:10 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:05:10 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:05:07 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:05:07 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:05:07 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:05:07 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 63.5739 : NG2026/08/07 12:05:07 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:05:07 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:05:07 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [762]!2026/08/07 12:05:06 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:05:06 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:05:06 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:05:04 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:05:04 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:05:04 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:05:04 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 80.0892 : NG2026/08/07 12:05:04 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:05:04 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:05:04 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [788]!2026/08/07 12:05:03 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:05:03 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:05:03 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:05:00 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:05:00 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:05:00 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:05:00 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 91.6499 : NG2026/08/07 12:05:00 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:05:00 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:05:00 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [730]!2026/08/07 12:04:59 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:04:59 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:04:59 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:04:57 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:04:57 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:04:57 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:04:56 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 103.2106 : NG2026/08/07 12:04:56 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:04:56 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:04:56 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [708]!2026/08/07 12:04:56 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:04:56 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:04:56 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:04:53 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:04:53 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:04:53 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:04:53 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.8167 : NG2026/08/07 12:04:53 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:04:53 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:04:53 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [779]!2026/08/07 12:04:52 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:04:52 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:04:52 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:04:49 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:04:49 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:04:49 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:04:49 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.8167 : NG2026/08/07 12:04:49 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:04:49 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:04:49 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [789]!2026/08/07 12:04:49 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:04:49 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:04:49 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:04:46 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:04:46 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:04:46 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:04:46 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 111.4682 : NG2026/08/07 12:04:46 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:04:46 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:04:46 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [741]!2026/08/07 12:04:45 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:04:45 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:04:45 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:04:42 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:04:42 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:04:42 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:04:42 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 111.4682 : NG2026/08/07 12:04:42 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 102026/08/07 12:04:42 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 10!2026/08/07 12:04:42 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [732]!2026/08/07 12:04:42 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:04:42 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:04:42 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:04:39 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:04:39 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:04:39 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:04:39 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.8167 : NG2026/08/07 12:04:39 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 442026/08/07 12:04:39 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 44!2026/08/07 12:04:39 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [823]!2026/08/07 12:04:38 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:04:38 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:04:38 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:04:35 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:04:35 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:04:35 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:04:35 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 111.4682 : NG2026/08/07 12:04:35 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 25152026/08/07 12:04:35 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2515!2026/08/07 12:04:35 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [743]!2026/08/07 12:04:34 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:04:34 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:04:34 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:04:34 - LOG
+MESSAGE: 
+START2026/08/07 12:04:29 - LOG
+MESSAGE: 
+END - 14. Đọc bit từ PLC hiển thị cảnh báo siết lực
+Cycletime: 81762026/08/07 12:03:37 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:03:37 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:03:37 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:03:37 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 114.4682 : NG2026/08/07 12:03:37 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:03:37 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:03:37 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [821]!2026/08/07 12:03:36 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:03:36 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:03:36 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:03:34 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:03:34 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:03:34 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:03:34 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 111.1652 : NG2026/08/07 12:03:34 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:03:34 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:03:34 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [709]!2026/08/07 12:03:33 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:03:33 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:03:33 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:03:30 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:03:30 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:03:30 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:03:30 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 116.1197 : NG2026/08/07 12:03:30 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:03:30 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:03:30 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [781]!2026/08/07 12:03:29 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:03:29 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:03:29 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:03:27 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:03:27 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:03:27 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:03:27 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 114.4682 : NG2026/08/07 12:03:27 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 582026/08/07 12:03:27 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 58!2026/08/07 12:03:22 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [749]!2026/08/07 12:03:21 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:03:21 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:03:21 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:03:18 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:03:18 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:03:18 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:03:18 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 117.7713 : NG2026/08/07 12:03:18 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 25102026/08/07 12:03:18 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2510!2026/08/07 12:03:12 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [812]!2026/08/07 12:03:11 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:03:11 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:03:11 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:03:11 - LOG
+MESSAGE: 
+START2026/08/07 12:03:06 - LOG
+MESSAGE: 
+END - 14. Đọc bit từ PLC hiển thị cảnh báo siết lực
+Cycletime: 74192026/08/07 12:02:48 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:02:27 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:02:27 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:02:27 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 110.1653 : NG2026/08/07 12:02:27 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 12026/08/07 12:02:27 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 1!2026/08/07 12:02:16 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [163]!2026/08/07 12:02:15 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:02:15 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:02:15 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:02:13 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:02:13 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:02:13 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:02:13 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 110.1653 : NG2026/08/07 12:02:13 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 12026/08/07 12:02:13 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 1!2026/08/07 12:02:05 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [144]!2026/08/07 12:02:05 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:02:05 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:02:05 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:02:05 - LOG
+MESSAGE: 
+START2026/08/07 12:01:51 - LOG
+MESSAGE: 
+[XIẾT LỰC] - START
+1. Đọc bit từ PLC hiển thị cảnh báo siết lực2026/08/07 12:01:51 - LOG
+MESSAGE: 
+END - 14. Đọc bit từ PLC hiển thị cảnh báo siết lực
+Cycletime: 83222026/08/07 12:00:46 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:00:46 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:00:46 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 116.1198 : NG2026/08/07 12:00:46 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:00:46 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:00:46 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [725]!2026/08/07 12:00:45 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:00:45 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:00:45 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:00:43 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:00:43 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:00:43 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:00:43 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 112.8168 : NG2026/08/07 12:00:43 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:00:43 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:00:43 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [791]!2026/08/07 12:00:42 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:00:42 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:00:42 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:00:39 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:00:39 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:00:39 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:00:39 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 116.1198 : NG2026/08/07 12:00:39 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:00:39 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:00:39 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [720]!2026/08/07 12:00:38 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:00:38 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:00:38 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:00:35 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:00:35 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:00:35 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:00:35 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 116.1198 : NG2026/08/07 12:00:35 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:00:35 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:00:35 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [708]!2026/08/07 12:00:34 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:00:34 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:00:34 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:00:32 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:00:32 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:00:32 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:00:32 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 116.1198 : NG2026/08/07 12:00:32 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 12:00:32 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 12:00:31 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [765]!2026/08/07 12:00:31 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:00:31 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:00:31 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:00:28 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:00:28 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:00:28 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:00:28 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 112.8168 : NG2026/08/07 12:00:28 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 25302026/08/07 12:00:28 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 2530!2026/08/07 12:00:28 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [792]!2026/08/07 12:00:27 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:00:27 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:00:27 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:00:24 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 12:00:24 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 12:00:24 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 12:00:24 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 119.4229 : NG2026/08/07 12:00:24 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 02026/08/07 12:00:24 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 0!2026/08/07 12:00:24 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [788]!2026/08/07 12:00:23 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 12:00:23 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 12:00:23 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 12:00:23 - LOG
+MESSAGE: 
+START2026/08/07 12:00:18 - LOG
+MESSAGE: 
+END - 14. Đọc bit từ PLC hiển thị cảnh báo siết lực
+Cycletime: 77662026/08/07 11:56:49 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 11:56:49 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 11:56:49 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.5137 : NG2026/08/07 11:56:49 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 12026/08/07 11:56:49 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 1!2026/08/07 11:56:02 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 11:56:02 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 11:56:02 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.5137 : NG2026/08/07 11:56:02 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 12026/08/07 11:56:02 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 1!2026/08/07 11:56:02 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [154]!2026/08/07 11:56:02 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 11:56:02 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 11:56:02 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 11:55:59 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 11:55:59 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 11:55:59 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 11:55:59 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.5137 : NG2026/08/07 11:55:59 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 12026/08/07 11:55:59 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 1!2026/08/07 11:55:59 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [187]!2026/08/07 11:55:59 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 11:55:59 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 11:55:59 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 11:55:56 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 11:55:56 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 11:55:56 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 11:55:56 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.5137 : NG2026/08/07 11:55:56 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 12026/08/07 11:55:56 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 1!2026/08/07 11:55:56 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [143]!2026/08/07 11:55:56 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 11:55:56 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 11:55:56 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 11:55:53 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 11:55:53 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 11:55:53 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 11:55:53 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.5137 : NG2026/08/07 11:55:53 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 12026/08/07 11:55:53 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 1!2026/08/07 11:55:51 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [160]!2026/08/07 11:55:50 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 11:55:50 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 11:55:50 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 11:55:48 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 11:55:48 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 11:55:48 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 11:55:48 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.5137 : NG2026/08/07 11:55:48 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 12026/08/07 11:55:48 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 1!2026/08/07 11:55:36 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [137]!2026/08/07 11:55:36 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 11:55:36 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 11:55:36 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 11:55:33 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 11:55:33 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 11:55:33 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 11:55:33 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 109.5137 : NG2026/08/07 11:55:33 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 12026/08/07 11:55:33 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 1!2026/08/07 11:55:10 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [163]!2026/08/07 11:55:10 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 11:55:10 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 11:55:10 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 11:55:10 - LOG
+MESSAGE: 
+START2026/08/07 11:54:57 - LOG
+MESSAGE: 
+[XIẾT LỰC] - START
+1. Đọc bit từ PLC hiển thị cảnh báo siết lực2026/08/07 11:54:57 - LOG
+MESSAGE: 
+END - 14. Đọc bit từ PLC hiển thị cảnh báo siết lực
+Cycletime: 83172026/08/07 10:50:04 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 10:50:04 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 10:50:04 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 10:50:04 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 123.2396 : NG2026/08/07 10:50:04 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 10:50:04 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 10:50:04 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [843]!2026/08/07 10:50:03 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 10:50:03 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 10:50:03 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 10:50:00 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 10:50:00 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 10:50:00 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 10:50:00 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 118.2850 : NG2026/08/07 10:50:00 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 10:50:00 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 10:49:58 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [737]!2026/08/07 10:49:57 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 10:49:57 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 10:49:57 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 10:49:54 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 10:49:54 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 10:49:54 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 10:49:54 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 123.2396 : NG2026/08/07 10:49:54 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 10:49:54 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 10:49:44 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [778]!2026/08/07 10:49:43 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 10:49:43 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 10:49:43 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 10:49:41 - LOG
+MESSAGE: 
+9. Hoàn thành mài, chờ lần mài tiếp theo2026/08/07 10:49:40 - LOG
+MESSAGE: 
+8. Kiểm tra giá trị bit Confirm PLC D106.1 ON?2026/08/07 10:49:40 - LOG
+MESSAGE: 
+7. Tính toán giá trị cần mài còn lại hoàn thành2026/08/07 10:49:40 - LOG
+MESSAGE: 
+6, Tính toán giá trị cần mài còn lại 116.6335 : NG2026/08/07 10:49:40 - LOG
+MESSAGE: 
+5. Gửi giá trị đá mài đi lên cho PLC : 142026/08/07 10:49:36 - LOG
+MESSAGE: 
+4. Khoảng cách đi lên của đá _height_Frinding_Diamond_SendPLC = 14!2026/08/07 10:49:16 - LOG
+MESSAGE: 
+3.1. Cycletime LineFindRun = [806]!2026/08/07 10:49:16 - LOG
+MESSAGE: 
+3. Tính toán kết quả bằng hàm LineFind2026/08/07 10:49:16 - LOG
+MESSAGE: 
+2. Reset bit ready [D206.0] OFF, [D206.1] ON2026/08/07 10:49:16 - LOG
+MESSAGE: 
+1. Nhận tín hiệu trigger chu trình mài [D106.0] ON2026/08/07 10:49:16 - LOG
+MESSAGE: 
+START2026/08/07 10:49:03 - LOG
+MESSAGE: 
+[XIẾT LỰC] - START
+1. Đọc bit từ PLC hiển thị cảnh báo siết lực2026/08/07 10:49:03 - LOG
+MESSAGE: 
+END - 14. Đọc bit từ PLC hiển thị cảnh báo siết lực
+Cycletime: 8336

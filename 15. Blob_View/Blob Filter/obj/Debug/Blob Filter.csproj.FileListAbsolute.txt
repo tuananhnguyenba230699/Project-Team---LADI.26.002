@@ -1,0 +1,19 @@
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\Blob Filter.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\Blob Filter.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\Emgu.CV.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\Emgu.CV.Bitmap.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\System.Buffers.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\System.Drawing.Common.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\System.Memory.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\System.Numerics.Vectors.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\System.Text.Encodings.Web.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\System.Text.Json.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\bin\Debug\System.ValueTuple.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\obj\Debug\Blob Filter.csproj.AssemblyReference.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\obj\Debug\Blob Filter.csproj.CoreCompileInputs.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\obj\Debug\Blob Filter.csproj.CopyComplete
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\obj\Debug\Blob Filter.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\14. Blob Filter\Blob Filter\obj\Debug\Blob Filter.pdb

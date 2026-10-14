@@ -1,0 +1,474 @@
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\cvextern.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\libusb-1.0.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\concrt140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_1.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_atomic_wait.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_codecvt_ids.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\vcruntime140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\vcruntime140_1.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\EntityFramework.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\MathNet.Numerics.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Basler.Pylon.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob View.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob_Muilti_ROI.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Utils.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraBars.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\FindLineTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\GraphiscWindow.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaseTypes.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaslerSdk.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCConst.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCHikSdk.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCEnums.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Office.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob View.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob_Muilti_ROI.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\FindLineTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\GraphiscWindow.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\GraphiscWindow.dll.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaslerSdk.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaslerSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCConst.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCHikSdk.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCHikSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\Basler.Pylon.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Utils.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraBars.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Office.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\en-US\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\zh-CHS\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.FrmMain.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.exe.licenses
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\cvextern.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\libusb-1.0.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\concrt140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_1.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_atomic_wait.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_codecvt_ids.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\vcruntime140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\vcruntime140_1.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\EntityFramework.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\MathNet.Numerics.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Basler.Pylon.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob View.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob_Muilti_ROI.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Utils.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraBars.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\FindLineTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\GraphiscWindow.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaseTypes.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaslerSdk.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCConst.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCHikSdk.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCEnums.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Office.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob View.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob_Muilti_ROI.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\FindLineTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\GraphiscWindow.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\GraphiscWindow.dll.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaslerSdk.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaslerSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCConst.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCHikSdk.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCHikSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Basler.Pylon.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Utils.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraBars.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Office.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\en-US\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\zh-CHS\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.FrmMain.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.exe.licenses
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\cvextern.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\libusb-1.0.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\concrt140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_1.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_atomic_wait.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\msvcp140_codecvt_ids.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\vcruntime140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\vcruntime140_1.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\EntityFramework.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\MathNet.Numerics.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Basler.Pylon.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob View.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob_Muilti_ROI.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Utils.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraBars.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\FindLineTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\GraphiscWindow.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaseTypes.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaslerSdk.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCConst.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCHikSdk.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCEnums.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Office.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob View.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Blob_Muilti_ROI.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\FindLineTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\GraphiscWindow.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\GraphiscWindow.dll.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaslerSdk.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCBaslerSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCConst.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCHikSdk.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\RTCHikSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\Basler.Pylon.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Data.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Utils.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraBars.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\DevExpress.Office.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\en-US\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\zh-CHS\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\Output\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.FrmMain.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.exe.licenses
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\DiscronAutomaticDiamond.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\DiscronAutomaticDiamond-17-11-2024_ver1\DiscronAutomaticDiamond\obj\x64\Debug\LADI.24.001.pdb

@@ -1,0 +1,7 @@
+2025/05/23 13:20:56 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 2200

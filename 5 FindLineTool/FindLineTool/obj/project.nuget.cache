@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "1D7Do0Sh2a88YulJXO10E1N23Srsx8JEui5Dj45ozvBKps/oOTwXaZc/uONQ7upAKD2CSBLbQ0M4Chnse6Wzfg==",
+  "success": true,
+  "projectFilePath": "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\5 FindLineTool\\FindLineTool\\FindLineTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\emgu.cv\\4.9.0.5494\\emgu.cv.4.9.0.5494.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\emgu.cv.bitmap\\4.9.0.5494\\emgu.cv.bitmap.4.9.0.5494.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\emgu.cv.runtime.windows\\4.8.1.5350\\emgu.cv.runtime.windows.4.8.1.5350.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.arm64\\19.37.32825\\emgu.runtime.windows.msvc.rt.arm64.19.37.32825.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.37.32825\\emgu.runtime.windows.msvc.rt.x64.19.37.32825.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.37.32825\\emgu.runtime.windows.msvc.rt.x86.19.37.32825.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.text.json\\8.0.1\\system.text.json.8.0.1.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: System.Drawing.Common from 8.0.1 to 8.0.0. Reference the package directly from the project to select a different version. \r\n FindLineTool -> Emgu.CV.Bitmap 4.9.0.5494 -> System.Drawing.Common (>= 8.0.1) \r\n FindLineTool -> System.Drawing.Common (>= 8.0.0)",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

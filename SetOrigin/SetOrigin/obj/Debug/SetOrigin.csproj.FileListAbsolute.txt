@@ -1,0 +1,394 @@
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\RTCBaseTypes.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\bin\Debug\RTCBaseTypes.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\RTC\ToolByDang\Tạo dll\SetOrigin\SetOrigin\bin\Debug\RTCConst.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\RTC\01. Project\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\New folder\DiscronAutomaticDiamond_17-11-2024_ver1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\22. Discron_Diamond_01012025 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\09. Diamond\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\47. Discron_Diamond_120825 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\58. Discron_Diamond_190925 ver 1.0\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\SetOrigin.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\Emgu.CV.Bitmap.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.Drawing.Common.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.Text.Encodings.Web.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.Text.Json.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\bin\Debug\System.ValueTuple.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\SetOrigin\SetOrigin\obj\Debug\SetOrigin.pdb

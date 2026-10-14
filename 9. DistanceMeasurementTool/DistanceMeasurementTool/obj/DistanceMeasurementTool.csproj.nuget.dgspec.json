@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj": {}
+  },
+  "projects": {
+    "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj",
+        "projectName": "DistanceMeasurementTool",
+        "projectPath": "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\DistanceMeasurementTool.csproj",
+        "packagesPath": "C:\\Users\\Tuan Anh NB\\.nuget\\packages\\",
+        "outputPath": "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\9. DistanceMeasurementTool\\DistanceMeasurementTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tuan Anh NB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\RTCConst\\RTCConst.csproj": {
+                "projectPath": "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\RTCConst\\RTCConst.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\RTCConst\\RTCConst.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\RTCConst\\RTCConst.csproj",
+        "projectName": "RTCConst",
+        "projectPath": "D:\\00. Project\\03. 2024\\129. LADI.24.001\\SW\\74. Discron_Diamond_071026 ver 1.1\\RTCConst\\RTCConst.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

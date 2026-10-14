@@ -1,0 +1,51 @@
+2024/11/16 21:49:31 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 9:49:31 PM2024/11/16 21:49:30 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 9:49:30 PM2024/11/16 21:49:23 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 9:49:23 PM2024/11/16 21:49:20 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 9:49:20 PM2024/11/16 21:48:53 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 9:48:53 PM2024/11/16 21:48:53 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 9:48:53 PM2024/11/16 21:48:38 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 9:48:38 PM2024/11/16 21:48:38 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 9:48:38 PM2024/11/16 21:48:36 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 9:48:36 PM2024/11/16 21:48:36 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 9:48:36 PM2024/11/16 21:48:13 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 9:48:13 PM2024/11/16 21:48:13 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 9:48:13 PM2024/11/16 21:48:11 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 9:48:11 PM2024/11/16 21:48:10 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 9:48:10 PM2024/11/16 18:43:01 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 6:43:01 PM2024/11/16 18:43:01 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 6:43:01 PM2024/11/16 18:41:12 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 6:41:12 PM2024/11/16 18:41:12 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 6:41:12 PM2024/11/16 17:56:49 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 5:56:49 PM2024/11/16 17:56:49 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 5:56:49 PM2024/11/16 17:38:00 - Error
+THÔNG SỐ: 
+Thời gian kết nối PLC trở lại: 16/11/2024 5:38:00 PM2024/11/16 17:36:49 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 5:36:49 PM2024/11/16 17:33:59 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 5:33:59 PM2024/11/16 11:06:30 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 11:06:30 AM2024/11/16 11:04:55 - Error
+THÔNG SỐ: 
+Thời gian mất kết nối PLC: 16/11/2024 11:04:55 AM

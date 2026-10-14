@@ -1,0 +1,41 @@
+2025/09/27 14:40:09 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.2\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 27202025/09/27 14:40:08 - Error
+THÔNG SỐ: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at AutoBrutingDiamond.Class.Lib.UpdateTextBoxText(TextBox txt, String text) in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.2\DiscronAutomaticDiamond\Class\Lib.cs:line 480
+   at AutoBrutingDiamond.FrmMain.LineFindRun() in D:\00. Project\03. 2024\129. LADI.24.001\SW\NEW\59. Discron_Diamond_230925 ver 1.2\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 24102025/09/27 14:31:32 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun()2025/09/27 14:31:17 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun()2025/09/27 14:28:48 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.get_FrameDimensionsList()
+   at System.Drawing.ImageAnimator.CanAnimate(Image image)
+   at System.Drawing.ImageAnimator.ImageInfo..ctor(Image image)
+   at System.Drawing.ImageAnimator.Animate(Image image, EventHandler onFrameChangedHandler)
+   at System.Windows.Forms.PictureBox.Animate(Boolean animate)
+   at System.Windows.Forms.PictureBox.InstallNewImage(Image value, ImageInstallationType installationType)
+   at AutoBrutingDiamond.FrmMain.DisplayGraphics(GraphicsWindow smartWindow, Object graphicsDisplay, Image`2 inputImage, Color color)
+   at AutoBrutingDiamond.FrmMain.LineFindRun()2025/09/27 14:28:44 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun()2025/09/27 14:25:12 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun()2025/09/27 14:24:07 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.Clone()
+   at AutoBrutingDiamond.FrmMain.LineFindRun()

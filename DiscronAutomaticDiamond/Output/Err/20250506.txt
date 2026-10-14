@@ -1,0 +1,100 @@
+2025/05/06 15:52:11 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21202025/05/06 15:48:50 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21122025/05/06 15:36:42 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20942025/05/06 11:59:21 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC()2025/05/06 11:44:00 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20792025/05/06 11:31:49 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20792025/05/06 11:19:57 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20792025/05/06 10:35:21 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20822025/05/06 10:30:59 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'pnlLiveCamera' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_CreateThreadId()
+   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at AutoBrutingDiamond.FrmMain.ShowPanel_WaitingForm(String content, Int32 typeWaiting, Int32 typeShow) in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 26822025/05/06 10:29:17 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'pnlLiveCamera' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_CreateThreadId()
+   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at AutoBrutingDiamond.FrmMain.ShowPanel_WaitingForm(String content, Int32 typeWaiting, Int32 typeShow) in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 26822025/05/06 10:26:56 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'cbSelect_RunMode' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.ComboBox.get_SelectedIndex()
+   at AutoBrutingDiamond.FrmMain.CheckTriggerConcentric() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 8712025/05/06 10:20:59 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'pnlLiveCamera' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_CreateThreadId()
+   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at AutoBrutingDiamond.FrmMain.ShowPanel_WaitingForm(String content, Int32 typeWaiting, Int32 typeShow) in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 26782025/05/06 10:18:34 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20782025/05/06 10:18:29 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnConfirmWaitingForm' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ShowPanel_WaitingForm(String content, Int32 typeWaiting, Int32 typeShow) in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 26622025/05/06 10:17:11 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnConfirmWaitingForm' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ShowPanel_WaitingForm(String content, Int32 typeWaiting, Int32 typeShow) in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 26622025/05/06 10:14:42 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 20772025/05/06 10:06:35 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\00. Project\03. 2024\129. LADI.24.001\SW\30. Discron_Diamond_050525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 2077

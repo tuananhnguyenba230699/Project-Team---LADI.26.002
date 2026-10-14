@@ -1,0 +1,29 @@
+2025/04/02 15:36:28 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC()2025/04/02 15:34:30 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Object is currently in use elsewhere.
+   at System.Drawing.Image.get_FrameDimensionsList()
+   at System.Drawing.ImageAnimator.CanAnimate(Image image)
+   at System.Drawing.ImageAnimator.ImageInfo..ctor(Image image)
+   at System.Drawing.ImageAnimator.Animate(Image image, EventHandler onFrameChangedHandler)
+   at System.Windows.Forms.PictureBox.Animate(Boolean animate)
+   at System.Windows.Forms.PictureBox.InstallNewImage(Image value, ImageInstallationType installationType)
+   at AutoBrutingDiamond.FrmMain.DisplayGraphics(GraphicsWindow smartWindow, Object graphicsDisplay, Image`2 inputImage, Color color)
+   at AutoBrutingDiamond.FrmMain.LineFindRun()2025/04/02 14:50:44 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC()2025/04/02 14:30:26 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC()

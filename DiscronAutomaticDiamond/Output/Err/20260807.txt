@@ -1,0 +1,345 @@
+2026/08/07 12:11:24 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC()2026/08/07 12:11:10 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2026/08/07 12:11:09 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2026/08/07 12:11:09 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2026/08/07 12:03:41 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1205
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38292026/08/07 12:03:41 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1204
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38292026/08/07 12:03:40 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1157
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38292026/08/07 12:00:53 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC()2026/08/07 12:00:48 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2026/08/07 12:00:48 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2026/08/07 12:00:48 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2026/08/07 11:56:04 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2026/08/07 11:56:04 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2026/08/07 11:56:03 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2026/08/07 11:54:09 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1205
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38352026/08/07 11:54:08 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1204
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38352026/08/07 11:54:08 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1157
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38352026/08/07 11:53:47 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1205
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38352026/08/07 11:53:46 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1204
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38352026/08/07 11:53:46 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1157
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\73. Discron_Diamond_070826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38352026/08/07 10:50:08 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1205
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:50:08 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1204
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:50:07 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1157
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:42:08 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 36432026/08/07 10:40:10 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 36432026/08/07 10:39:43 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1205
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:39:43 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1204
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:39:42 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1157
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:39:23 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1205
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:39:22 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1204
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:39:22 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1157
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:36:37 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1205
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:36:37 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1204
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 38712026/08/07 10:36:37 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 1157
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in D:\Sofware\04. SW\72. Discron_Diamond_060826 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 3871

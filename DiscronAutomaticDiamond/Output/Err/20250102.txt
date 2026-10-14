@@ -1,0 +1,4 @@
+2025/01/02 17:10:09 - Error
+THÔNG SỐ: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DiscronDiamond.FrmMain.btnConnect_Device_Click(Object sender, EventArgs e)

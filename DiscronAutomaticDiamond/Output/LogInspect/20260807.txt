@@ -1,0 +1,63 @@
+2026/08/07 12:07:39 - LOG
+MESSAGE: 
+END - 13. Lưu kết quả vào DB2026/08/07 12:07:38 - LOG
+MESSAGE: 
+12. Hiển thị thông số lên màn hình2026/08/07 12:07:38 - LOG
+MESSAGE: 
+11. Hiển thị Crow height và total Depth theo phần trăm2026/08/07 12:07:37 - LOG
+MESSAGE: 
+10. Tính toán Crow height và total Depth2026/08/07 12:07:37 - LOG
+MESSAGE: 
+9. Phân loại đủ 1 lần. Hiển thị thông số khi hoàn thành
+Cycltetime8662026/08/07 12:07:37 - LOG
+MESSAGE: 
+8. Phân loại lần thứ 12026/08/07 12:07:37 - LOG
+MESSAGE: 
+7. Xác nhận bit Confirm ON thành công2026/08/07 12:07:37 - LOG
+MESSAGE: 
+6. Kiểm tra bit Confirm từ PLC D110.12026/08/07 12:07:37 - LOG
+MESSAGE: 
+5. On bit D210 xác nhận OKE2026/08/07 12:07:37 - LOG
+MESSAGE: 
+4.Hoàn thành tính toán, hiển thị các thông số2026/08/07 12:07:37 - LOG
+MESSAGE: 
+Cycletime: 6872026/08/07 12:07:37 - LOG
+MESSAGE: 
+3.Tính toán độ đảo, total depth và crow height2026/08/07 12:07:37 - LOG
+MESSAGE: 
+2. SET [D210.0] OFF, [D210.1] ON2026/08/07 12:07:37 - LOG
+MESSAGE: 
+1.Kiểm tra tín hiệu trigger [D110.0] ON2026/08/07 12:07:37 - LOG
+MESSAGE: 
+START2026/08/07 12:05:42 - LOG
+MESSAGE: 
+END - 13. Lưu kết quả vào DB2026/08/07 12:05:41 - LOG
+MESSAGE: 
+12. Hiển thị thông số lên màn hình2026/08/07 12:05:41 - LOG
+MESSAGE: 
+11. Hiển thị Crow height và total Depth theo phần trăm2026/08/07 12:05:40 - LOG
+MESSAGE: 
+10. Tính toán Crow height và total Depth2026/08/07 12:05:40 - LOG
+MESSAGE: 
+9. Phân loại đủ 1 lần. Hiển thị thông số khi hoàn thành
+Cycltetime8192026/08/07 12:05:40 - LOG
+MESSAGE: 
+8. Phân loại lần thứ 12026/08/07 12:05:40 - LOG
+MESSAGE: 
+7. Xác nhận bit Confirm ON thành công2026/08/07 12:05:40 - LOG
+MESSAGE: 
+6. Kiểm tra bit Confirm từ PLC D110.12026/08/07 12:05:40 - LOG
+MESSAGE: 
+5. On bit D210 xác nhận OKE2026/08/07 12:05:40 - LOG
+MESSAGE: 
+4.Hoàn thành tính toán, hiển thị các thông số2026/08/07 12:05:40 - LOG
+MESSAGE: 
+Cycletime: 6882026/08/07 12:05:39 - LOG
+MESSAGE: 
+3.Tính toán độ đảo, total depth và crow height2026/08/07 12:05:39 - LOG
+MESSAGE: 
+2. SET [D210.0] OFF, [D210.1] ON2026/08/07 12:05:39 - LOG
+MESSAGE: 
+1.Kiểm tra tín hiệu trigger [D110.0] ON2026/08/07 12:05:39 - LOG
+MESSAGE: 
+START

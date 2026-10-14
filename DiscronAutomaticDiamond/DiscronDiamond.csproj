@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2D42CC1-E8DE-4EC3-A9F6-4894259400A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AutoBrutingDiamond</RootNamespace>
+    <AssemblyName>AutoBrutingDiamond</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon-logo-RTC-2023.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Basler.Pylon">
+      <HintPath>..\RTCBaslerSdk (1)\bin\Debug\Basler.Pylon.dll</HintPath>
+    </Reference>
+    <Reference Include="Blob_Muilti_ROI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Output\Blob_Muilti_ROI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.Desktop.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v20.2.Core, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v20.2.Core, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Emgu.CV">
+      <HintPath>Output\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.Bitmap">
+      <HintPath>Output\Emgu.CV.Bitmap.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.Platform.NetFramework">
+      <HintPath>Output\Emgu.CV.Platform.NetFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MvCamCtrl.Net">
+      <HintPath>C:\Program Files (x86)\MVS\Development\Samples\C#\MvCamCtrlNet\BasicDemo\bin\Debug\MvCamCtrl.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="RTCBaseTypes">
+      <HintPath>..\5 FindLineTool\FindLineTool\bin\Debug\RTCBaseTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\AccessIni.cs" />
+    <Compile Include="Class\cConst.cs" />
+    <Compile Include="Class\cDeviceManager.cs" />
+    <Compile Include="Class\cROIProperty.cs" />
+    <Compile Include="Class\cROIRectangle.cs" />
+    <Compile Include="Class\EnumDrawings.cs" />
+    <Compile Include="Class\Lib.cs" />
+    <Compile Include="Class\McProtocolTcp.cs" />
+    <Compile Include="Class\MC_Protocol.cs" />
+    <Compile Include="Class\SLMPClient.cs" />
+    <Compile Include="Class\Support_Convert.cs" />
+    <Compile Include="Forms\FrmErrorDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmErrorDetail.designer.cs">
+      <DependentUpon>FrmErrorDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmRegisterAddressDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmRegisterAddressDetail.Designer.cs">
+      <DependentUpon>FrmRegisterAddressDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmRegisterPLCAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmRegisterPLCAddress.Designer.cs">
+      <DependentUpon>FrmRegisterPLCAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmHistory.Designer.cs">
+      <DependentUpon>FrmHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmRegisterTeachingPLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmRegisterTeachingPLC.Designer.cs">
+      <DependentUpon>FrmRegisterTeachingPLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSetting_Vision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSetting_Vision.Designer.cs">
+      <DependentUpon>FrmSetting_Vision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobFuncs.cs" />
+    <Compile Include="GlobVar.cs" />
+    <Compile Include="Models\config_data.cs" />
+    <Compile Include="Models\register_root_axis.cs" />
+    <Compile Include="Models\history_data.cs" />
+    <Compile Include="Models\line_find_infor.cs" />
+    <Compile Include="Models\register_device.cs" />
+    <Compile Include="Models\register_error.cs" />
+    <Compile Include="Models\RegisterPlcAddress.cs" />
+    <Compile Include="Models\register_teachings_plc.cs" />
+    <Compile Include="Models\register_roi_parameters.cs" />
+    <Compile Include="Models\register_location_rois.cs" />
+    <Compile Include="Models\settings_camera.cs" />
+    <Compile Include="Models\shape_diamond_infor.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\FrmErrorDetail.resx">
+      <DependentUpon>FrmErrorDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmRegisterAddressDetail.resx">
+      <DependentUpon>FrmRegisterAddressDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmRegisterPLCAddress.resx">
+      <DependentUpon>FrmRegisterPLCAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmHistory.resx">
+      <DependentUpon>FrmHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmRegisterTeachingPLC.resx">
+      <DependentUpon>FrmRegisterTeachingPLC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSetting_Vision.resx">
+      <DependentUpon>FrmSetting_Vision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\ConvertToRange_32x32.png" />
+    <None Include="Resources\Open2_16x16.png" />
+    <None Include="Resources\Open2_32x32.png" />
+    <None Include="Resources\Properties_32x32.png" />
+    <None Include="Resources\RTCLogo.png" />
+    <None Include="Resources\SelectData_32x32.png" />
+    <None Include="Resources\Zoom_16x16.png" />
+    <None Include="Resources\Zoom_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\15. Blob_View\Blob Filter\Blob View.csproj">
+      <Project>{b74ebc48-848d-42cd-8aa9-3c427b38f307}</Project>
+      <Name>Blob View</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\5 FindLineTool\FindLineTool\FindLineTool.csproj">
+      <Project>{a7fae0ca-aa36-4b8f-828a-6289b6126115}</Project>
+      <Name>FindLineTool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\9. DistanceMeasurementTool\DistanceMeasurementTool\DistanceMeasurementTool.csproj">
+      <Project>{74618e99-4fae-469c-86d3-6851a3941585}</Project>
+      <Name>DistanceMeasurementTool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GraphiscWindow\GraphicsWindow.csproj">
+      <Project>{9eda0f4c-d4f4-464e-9cdb-02c9987d5613}</Project>
+      <Name>GraphicsWindow</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MySQLLib\MySQLLib.csproj">
+      <Project>{89671801-f549-40a4-ab65-8df44c061076}</Project>
+      <Name>MySQLLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RTCBaslerSdk %281%29\RTCBaslerSdk.csproj">
+      <Project>{51533942-a4d4-45a1-951a-cc81eae37280}</Project>
+      <Name>RTCBaslerSdk</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RTCConst\RTCConst.csproj">
+      <Project>{8a10f03f-b1a8-42cc-a9ba-56a7486308f7}</Project>
+      <Name>RTCConst</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RTCHikSdk\RTCHikSdk.csproj">
+      <Project>{d063bdd8-9149-4d51-b2cf-b2c5a098f5f9}</Project>
+      <Name>RTCHikSdk</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SetOrigin\SetOrigin\SetOrigin.csproj">
+      <Project>{6272fb1d-f065-48b3-8e3a-2b7585be6420}</Project>
+      <Name>SetOrigin</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Emgu.CV">
+      <Version>4.9.0.5494</Version>
+    </PackageReference>
+    <PackageReference Include="Emgu.CV.Bitmap">
+      <Version>4.9.0.5494</Version>
+    </PackageReference>
+    <PackageReference Include="Emgu.CV.UI">
+      <Version>4.9.0.5494</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Data.Sqlite.Core">
+      <Version>8.0.8</Version>
+    </PackageReference>
+    <PackageReference Include="System.Data.SQLite">
+      <Version>1.0.119</Version>
+    </PackageReference>
+    <PackageReference Include="System.Drawing.Common">
+      <Version>8.0.0</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image_20241216153801170.bmp" />
+    <None Include="Resources\%24this.Icon.ico" />
+    <None Include="Output\images\icon\Save_32x322.png" />
+    <None Include="Output\images\icon\SaveAndClose_32x32.png" />
+    <None Include="Output\images\icon\add_32x32.png" />
+    <None Include="Output\images\icon\edit_32x32.png" />
+    <None Include="Output\images\icon\delete_32x32.png" />
+    <Content Include="icon-logo-RTC-2023.ico" />
+    <Content Include="Resources\Image_20241118153137598.bmp" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>RD /S /Q "$(TargetDir)cs\"
+RD /S /Q "$(TargetDir)da\"
+RD /S /Q "$(TargetDir)de\"
+RD /S /Q "$(TargetDir)es\"
+RD /S /Q "$(TargetDir)fa\"
+RD /S /Q "$(TargetDir)fi\"
+RD /S /Q "$(TargetDir)fr\"
+RD /S /Q "$(TargetDir)it\"
+RD /S /Q "$(TargetDir)ko\"
+RD /S /Q "$(TargetDir)mk\"
+RD /S /Q "$(TargetDir)nl\"
+RD /S /Q "$(TargetDir)pl\"
+RD /S /Q "$(TargetDir)pt\"
+RD /S /Q "$(TargetDir)ru\"
+RD /S /Q "$(TargetDir)sv\"
+RD /S /Q "$(TargetDir)tr\"
+RD /S /Q "$(TargetDir)ca\"
+RD /S /Q "$(TargetDir)ja\"
+RD /S /Q "$(TargetDir)zh-CN\"
+RD /S /Q "$(TargetDir)pt-BR\"
+RD /S /Q "$(TargetDir)pt-PT\"
+RD /S /Q "$(TargetDir)zh\"
+RD /S /Q "$(TargetDir)zh-TW"</PreBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\\RTC\\1. Dự Án\\1. RTC Vision Lite\\Tạo dll\\Blob Filter\\Blob Filter\\Blob Filter.csproj": {}
+  },
+  "projects": {
+    "E:\\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\\RTC\\1. Dự Án\\1. RTC Vision Lite\\Tạo dll\\Blob Filter\\Blob Filter\\Blob Filter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\\RTC\\1. Dự Án\\1. RTC Vision Lite\\Tạo dll\\Blob Filter\\Blob Filter\\Blob Filter.csproj",
+        "projectName": "Blob Filter",
+        "projectPath": "E:\\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\\RTC\\1. Dự Án\\1. RTC Vision Lite\\Tạo dll\\Blob Filter\\Blob Filter\\Blob Filter.csproj",
+        "packagesPath": "C:\\Users\\ichba\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\\RTC\\1. Dự Án\\1. RTC Vision Lite\\Tạo dll\\Blob Filter\\Blob Filter\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\ichba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

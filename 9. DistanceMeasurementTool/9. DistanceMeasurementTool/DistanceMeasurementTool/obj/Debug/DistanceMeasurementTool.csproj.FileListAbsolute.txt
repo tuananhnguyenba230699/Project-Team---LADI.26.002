@@ -1,0 +1,263 @@
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.dll
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.dll.config
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+E:\C#\Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.dll.config
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.dll.config
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+E:\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.dll.config
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\Tạo dll\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.pdb
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe.config
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+D:\RTC\01. Project\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.pdb
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe.config
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.pdb
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe.config
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+D:\RTC\01. Project\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe.config
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe.config
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\bin\Debug\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\9. DistanceMeasurementTool\DistanceMeasurementTool\obj\Debug\DistanceMeasurementTool.pdb

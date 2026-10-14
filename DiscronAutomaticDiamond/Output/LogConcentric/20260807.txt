@@ -1,0 +1,875 @@
+2026/08/07 12:05:58 - LOG
+MESSAGE: 
+13. Bit M3020 ON, đã conplete2026/08/07 12:05:58 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:05:58 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:05:58 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:05:58 - LOG
+MESSAGE: 
+Cycletime Concentric : 6162026/08/07 12:05:58 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:05:58 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:05:58 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:05:58 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :3.30305532617672 và giá trị bit đồng tâm2026/08/07 12:05:58 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:05:58 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:05:57 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:05:57 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:05:57 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:05:57 - LOG
+MESSAGE: 
+Cycletime Concentric : 7502026/08/07 12:05:57 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:05:57 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:05:57 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:05:57 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :0 và giá trị bit đồng tâm2026/08/07 12:05:56 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:05:56 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:05:56 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:05:56 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:05:56 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:05:56 - LOG
+MESSAGE: 
+Cycletime Concentric : 6202026/08/07 12:05:56 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:05:56 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:05:56 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:05:56 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :0 và giá trị bit đồng tâm2026/08/07 12:05:55 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:05:55 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:05:55 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:05:55 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:05:55 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:05:55 - LOG
+MESSAGE: 
+Cycletime Concentric : 7522026/08/07 12:05:55 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:05:55 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:05:55 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:05:55 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :3.30305532617672 và giá trị bit đồng tâm2026/08/07 12:05:54 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:05:54 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:05:53 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:05:53 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:05:53 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:05:53 - LOG
+MESSAGE: 
+Cycletime Concentric : 6052026/08/07 12:05:53 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:05:53 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:05:53 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:05:53 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :6.60611065235344 và giá trị bit đồng tâm2026/08/07 12:05:52 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:05:52 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:05:52 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:05:52 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:05:52 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:05:51 - LOG
+MESSAGE: 
+Cycletime Concentric : 6792026/08/07 12:05:51 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:05:51 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:05:51 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:05:51 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :0 và giá trị bit đồng tâm2026/08/07 12:05:51 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:05:51 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:05:51 - LOG
+MESSAGE: 
+START
+2026/08/07 12:04:29 - LOG
+MESSAGE: 
+13. Bit M3020 ON, đã conplete2026/08/07 12:04:29 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:04:29 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:04:29 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:04:29 - LOG
+MESSAGE: 
+Cycletime Concentric : 5952026/08/07 12:04:29 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:04:29 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:04:29 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:04:29 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :9.90916597853016 và giá trị bit đồng tâm2026/08/07 12:04:28 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:04:28 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:04:28 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:04:28 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:04:28 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:04:28 - LOG
+MESSAGE: 
+Cycletime Concentric : 6102026/08/07 12:04:28 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:04:28 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:04:28 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:04:28 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :3.30305532617672 và giá trị bit đồng tâm2026/08/07 12:04:27 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:04:27 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:04:27 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:04:27 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:04:27 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:04:27 - LOG
+MESSAGE: 
+Cycletime Concentric : 6652026/08/07 12:04:27 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:04:27 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:04:27 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:04:27 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-6.60611065235344 và giá trị bit đồng tâm2026/08/07 12:04:26 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:04:26 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:04:26 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:04:26 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:04:26 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:04:26 - LOG
+MESSAGE: 
+Cycletime Concentric : 7092026/08/07 12:04:26 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:04:26 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:04:26 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:04:26 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-4.95458298926508 và giá trị bit đồng tâm2026/08/07 12:04:25 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:04:25 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:04:24 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:04:24 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:04:24 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:04:24 - LOG
+MESSAGE: 
+Cycletime Concentric : 6952026/08/07 12:04:24 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:04:24 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:04:24 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:04:24 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :9.90916597853016 và giá trị bit đồng tâm2026/08/07 12:04:23 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:04:23 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:04:22 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:04:22 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:04:22 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:04:22 - LOG
+MESSAGE: 
+Cycletime Concentric : 7462026/08/07 12:04:22 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:04:22 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:04:22 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:04:21 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :3.30305532617672 và giá trị bit đồng tâm2026/08/07 12:04:21 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:04:21 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:04:21 - LOG
+MESSAGE: 
+START
+2026/08/07 12:03:06 - LOG
+MESSAGE: 
+13. Bit M3020 ON, đã conplete2026/08/07 12:03:06 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:03:06 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:03:06 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:03:06 - LOG
+MESSAGE: 
+Cycletime Concentric : 6362026/08/07 12:03:06 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:03:06 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:03:06 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:03:06 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :9.90916597853016 và giá trị bit đồng tâm2026/08/07 12:03:06 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:03:06 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:03:05 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:03:05 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:03:05 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:03:05 - LOG
+MESSAGE: 
+Cycletime Concentric : 6682026/08/07 12:03:05 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:03:05 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:03:05 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:03:05 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-6.60611065235344 và giá trị bit đồng tâm2026/08/07 12:03:05 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:03:05 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:03:04 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:03:04 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:03:04 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:03:04 - LOG
+MESSAGE: 
+Cycletime Concentric : 7262026/08/07 12:03:04 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:03:04 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:03:04 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:03:04 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :8.2576383154418 và giá trị bit đồng tâm2026/08/07 12:03:03 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:03:03 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:03:03 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:03:03 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:03:03 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:03:03 - LOG
+MESSAGE: 
+Cycletime Concentric : 6152026/08/07 12:03:03 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:03:03 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:03:03 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:03:03 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :13.2122213047069 và giá trị bit đồng tâm2026/08/07 12:03:02 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:03:02 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:03:01 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:03:01 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:03:01 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:03:01 - LOG
+MESSAGE: 
+Cycletime Concentric : 6302026/08/07 12:03:01 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:03:01 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:03:01 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:03:01 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :3.30305532617672 và giá trị bit đồng tâm2026/08/07 12:03:01 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:03:01 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:03:00 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:03:00 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:03:00 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:03:00 - LOG
+MESSAGE: 
+Cycletime Concentric : 6852026/08/07 12:03:00 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:03:00 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:03:00 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:03:00 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-8.2576383154418 và giá trị bit đồng tâm2026/08/07 12:02:59 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:02:59 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:02:59 - LOG
+MESSAGE: 
+START
+2026/08/07 12:01:51 - LOG
+MESSAGE: 
+13. Bit M3020 ON, đã conplete2026/08/07 12:01:50 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:01:50 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:01:50 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:01:50 - LOG
+MESSAGE: 
+Cycletime Concentric : 6472026/08/07 12:01:50 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:01:50 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:01:50 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:01:50 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :6.60611065235344 và giá trị bit đồng tâm2026/08/07 12:01:49 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:01:49 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:01:49 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:01:49 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:01:49 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:01:49 - LOG
+MESSAGE: 
+Cycletime Concentric : 7132026/08/07 12:01:49 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:01:49 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:01:49 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:01:49 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-8.2576383154418 và giá trị bit đồng tâm2026/08/07 12:01:48 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:01:48 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:01:48 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:01:48 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:01:48 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:01:48 - LOG
+MESSAGE: 
+Cycletime Concentric : 7502026/08/07 12:01:48 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:01:48 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:01:48 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:01:48 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :9.90916597853016 và giá trị bit đồng tâm2026/08/07 12:01:47 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:01:47 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:01:46 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:01:46 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:01:46 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:01:46 - LOG
+MESSAGE: 
+Cycletime Concentric : 6202026/08/07 12:01:46 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:01:46 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:01:46 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:01:46 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :13.2122213047069 và giá trị bit đồng tâm2026/08/07 12:01:46 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:01:46 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:01:45 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:01:45 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:01:45 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:01:45 - LOG
+MESSAGE: 
+Cycletime Concentric : 6342026/08/07 12:01:45 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:01:45 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:01:45 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:01:45 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :6.60611065235344 và giá trị bit đồng tâm2026/08/07 12:01:44 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:01:44 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:01:43 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:01:43 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:01:43 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:01:43 - LOG
+MESSAGE: 
+Cycletime Concentric : 6462026/08/07 12:01:43 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:01:43 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:01:43 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:01:43 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-4.95458298926508 và giá trị bit đồng tâm2026/08/07 12:01:43 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:01:43 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:01:43 - LOG
+MESSAGE: 
+START
+2026/08/07 12:00:18 - LOG
+MESSAGE: 
+13. Bit M3020 ON, đã conplete2026/08/07 12:00:18 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:00:18 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:00:18 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:00:18 - LOG
+MESSAGE: 
+Cycletime Concentric : 6112026/08/07 12:00:18 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:00:18 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:00:18 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:00:18 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-1.65152766308836 và giá trị bit đồng tâm2026/08/07 12:00:17 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:00:17 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:00:17 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:00:17 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:00:17 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:00:17 - LOG
+MESSAGE: 
+Cycletime Concentric : 8432026/08/07 12:00:17 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:00:17 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:00:17 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:00:17 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :11.5606936416185 và giá trị bit đồng tâm2026/08/07 12:00:16 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:00:16 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:00:15 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:00:15 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:00:15 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:00:15 - LOG
+MESSAGE: 
+Cycletime Concentric : 7042026/08/07 12:00:15 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:00:15 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:00:15 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:00:15 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-8.2576383154418 và giá trị bit đồng tâm2026/08/07 12:00:15 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:00:15 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:00:14 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:00:14 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:00:14 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:00:14 - LOG
+MESSAGE: 
+Cycletime Concentric : 7632026/08/07 12:00:14 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:00:14 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:00:14 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:00:14 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-6.60611065235344 và giá trị bit đồng tâm2026/08/07 12:00:13 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:00:13 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:00:13 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:00:13 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:00:13 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:00:13 - LOG
+MESSAGE: 
+Cycletime Concentric : 6942026/08/07 12:00:13 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:00:12 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:00:12 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:00:12 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :0 và giá trị bit đồng tâm2026/08/07 12:00:12 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:00:12 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:00:11 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 12:00:11 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 12:00:11 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 12:00:11 - LOG
+MESSAGE: 
+Cycletime Concentric : 6692026/08/07 12:00:11 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 12:00:11 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 12:00:11 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 12:00:11 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :13.2122213047069 và giá trị bit đồng tâm2026/08/07 12:00:10 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 12:00:10 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 12:00:10 - LOG
+MESSAGE: 
+START
+2026/08/07 11:54:57 - LOG
+MESSAGE: 
+13. Bit M3020 ON, đã conplete2026/08/07 11:54:56 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 11:54:56 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 11:54:56 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 11:54:56 - LOG
+MESSAGE: 
+Cycletime Concentric : 6762026/08/07 11:54:56 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 11:54:56 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 11:54:56 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 11:54:56 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :3.30305532617672 và giá trị bit đồng tâm2026/08/07 11:54:55 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 11:54:55 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 11:54:55 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 11:54:55 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 11:54:55 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 11:54:55 - LOG
+MESSAGE: 
+Cycletime Concentric : 6602026/08/07 11:54:55 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 11:54:55 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 11:54:55 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 11:54:55 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-9.90916597853016 và giá trị bit đồng tâm2026/08/07 11:54:54 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 11:54:54 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 11:54:54 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 11:54:54 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 11:54:54 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 11:54:54 - LOG
+MESSAGE: 
+Cycletime Concentric : 7232026/08/07 11:54:54 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 11:54:54 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 11:54:54 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 11:54:54 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :13.2122213047069 và giá trị bit đồng tâm2026/08/07 11:54:53 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 11:54:53 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 11:54:53 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 11:54:53 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 11:54:53 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 11:54:52 - LOG
+MESSAGE: 
+Cycletime Concentric : 6062026/08/07 11:54:52 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 11:54:52 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 11:54:52 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 11:54:52 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :13.2122213047069 và giá trị bit đồng tâm2026/08/07 11:54:52 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 11:54:52 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 11:54:51 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 11:54:51 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 11:54:51 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 11:54:51 - LOG
+MESSAGE: 
+Cycletime Concentric : 6362026/08/07 11:54:51 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 11:54:51 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 11:54:51 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 11:54:51 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :3.30305532617672 và giá trị bit đồng tâm2026/08/07 11:54:50 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 11:54:50 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 11:54:49 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 11:54:49 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 11:54:49 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 11:54:49 - LOG
+MESSAGE: 
+Cycletime Concentric : 7372026/08/07 11:54:49 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 11:54:49 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 11:54:49 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 11:54:49 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-9.90916597853016 và giá trị bit đồng tâm2026/08/07 11:54:49 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 11:54:49 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 11:54:48 - LOG
+MESSAGE: 
+START
+2026/08/07 10:49:03 - LOG
+MESSAGE: 
+13. Bit M3020 ON, đã conplete2026/08/07 10:49:02 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 10:49:02 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 10:49:02 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 10:49:02 - LOG
+MESSAGE: 
+Cycletime Concentric : 7932026/08/07 10:49:02 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 10:49:02 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 10:49:02 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 10:49:02 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :16.5152766308836 và giá trị bit đồng tâm2026/08/07 10:49:01 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 10:49:01 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 10:49:01 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 10:49:00 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 10:49:00 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 10:49:00 - LOG
+MESSAGE: 
+Cycletime Concentric : 5892026/08/07 10:49:00 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 10:49:00 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 10:49:00 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 10:49:00 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :9.90916597853016 và giá trị bit đồng tâm2026/08/07 10:49:00 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 10:49:00 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 10:48:59 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 10:48:59 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 10:48:59 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 10:48:59 - LOG
+MESSAGE: 
+Cycletime Concentric : 6092026/08/07 10:48:59 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 10:48:59 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 10:48:59 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 10:48:59 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-18.166804293972 và giá trị bit đồng tâm2026/08/07 10:48:59 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 10:48:59 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 10:48:58 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 10:48:58 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 10:48:58 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 10:48:58 - LOG
+MESSAGE: 
+Cycletime Concentric : 7412026/08/07 10:48:58 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 10:48:58 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 10:48:58 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 10:48:58 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :-19.8183319570603 và giá trị bit đồng tâm2026/08/07 10:48:58 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 10:48:58 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 10:48:57 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 10:48:57 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 10:48:57 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 10:48:57 - LOG
+MESSAGE: 
+Cycletime Concentric : 6022026/08/07 10:48:57 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 10:48:57 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 10:48:57 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 10:48:56 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :14.8637489677952 và giá trị bit đồng tâm2026/08/07 10:48:56 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 10:48:56 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 10:48:55 - LOG
+MESSAGE: 
+12. Check Complete công đoạn2026/08/07 10:48:55 - LOG
+MESSAGE: 
+11. Tín hiệu Bit 102.1 ON2026/08/07 10:48:55 - LOG
+MESSAGE: 
+10. Check tín hiệu bit trigger 4, nếu ON thì vision bắt đầu tính toán giá trị độ lệch2026/08/07 10:48:55 - LOG
+MESSAGE: 
+Cycletime Concentric : 6712026/08/07 10:48:55 - LOG
+MESSAGE: 
+7. Hiển thị giá trị độ lệch lên ảnh2026/08/07 10:48:55 - LOG
+MESSAGE: 
+6. Góc nhỏ hơn 152026/08/07 10:48:55 - LOG
+MESSAGE: 
+5. Kiểm tra nếu độ lệch nằm trong khoảng cho phép thì sẽ ON bit Complete đồng tâm, nếu không thì OFF bit2026/08/07 10:48:55 - LOG
+MESSAGE: 
+4. Gửi giá trị độ lệch :8.2576383154418 và giá trị bit đồng tâm2026/08/07 10:48:54 - LOG
+MESSAGE: 
+3. Run LineFind Tool để tìm ra các đoạn thẳng2026/08/07 10:48:54 - LOG
+MESSAGE: 
+1. Kiểm tra triger đồng tâm D102.0 ON2026/08/07 10:48:54 - LOG
+MESSAGE: 
+START

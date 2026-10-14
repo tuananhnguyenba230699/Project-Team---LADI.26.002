@@ -1,0 +1,518 @@
+D:\2.RTCVision\RTCVision Lite\RTC Vision Lite 2\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\2.RTCVision\RTCVision Lite\RTC Vision Lite 2\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\2.RTCVision\RTCVision Lite\RTC Vision Lite 2\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\2.RTCVision\RTCVision Lite\RTC Vision Lite 2\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\2.RTCVision\RTCVision Lite\RTC Vision Lite 2\RTCConst\bin\Debug\RTCConst.exe.config
+D:\2.RTCVision\RTCVision Lite\RTC Vision Lite 2\RTCConst\bin\Debug\RTCConst.exe
+D:\2.RTCVision\RTCVision Lite\RTC Vision Lite 2\RTCConst\bin\Debug\RTCConst.pdb
+D:\2.RTCVision\RTCVision Lite\RTC Vision Lite 2\RTCConst\obj\Debug\RTCConst.exe
+D:\2.RTCVision\RTCVision Lite\RTC Vision Lite 2\RTCConst\obj\Debug\RTCConst.pdb
+D:\00.RTC_Vision_Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\00.RTC_Vision_Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\00.RTC_Vision_Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\00.RTC_Vision_Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\00.RTC_Vision_Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\00.RTC_Vision_Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\00.RTC_Vision_Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\00.RTC_Vision_Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\00.RTC_Vision_Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\00.RTC_Vision_Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\00.RTC_Vision_Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\00.RTC_Vision_Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+F:\RTC\PROJECT\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+F:\RTC\PROJECT\09. RTCVision Lite151123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+F:\RTC\PROJECT\09. RTCVision Lite171123\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+F:\RTC\PROJECT\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\1. Project\09. RTCVision Lite\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\1. Project\09. RTCVision Lite0412\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\1. Project\09. RTCVision Lite1612\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\1. Project\09. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\1. Project\01. RTCVision Lite291223\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\1. Project\01. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+C:\RTC\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+C:\RTC\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+C:\RTC\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+C:\RTC\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+C:\RTC\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+C:\RTC\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+C:\RTC\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+C:\RTC\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+C:\RTC\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+C:\RTC\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+C:\RTC\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+C:\RTC\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\1. Project\2. RTCVision Lite_Ver220124\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\1. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\DevExpress.Data.v20.2.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\DevExpress.Xpo.v20.2.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\DevExpress.Data.v20.2.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\DevExpress.Xpo.v20.2.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.dll
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.xml
+D:\RTC\01. Project\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.dll
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.xml
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+E:\OneDrive - MBC325076 Nhan Hoa - rtceduvnnh\RTC\1. Dự Án\1. RTC Vision Lite\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.dll
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.xml
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+E:\RTC\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Emgu.CV.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Buffers.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Memory.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Numerics.Vectors.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Encodings.Web.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Text.Json.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\bin\Debug\System.ValueTuple.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\Emgu.CV.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Buffers.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Memory.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Text.Json.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.ValueTuple.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\Emgu.CV.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Buffers.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Memory.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Numerics.Vectors.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Text.Encodings.Web.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Text.Json.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\bin\Debug\System.ValueTuple.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_Coding\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\RTCConst.exe.config
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\RTCConst.exe
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\RTCConst.pdb
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\Emgu.CV.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Buffers.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Memory.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Numerics.Vectors.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Text.Json.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.ValueTuple.dll
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\Emgu.CV.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Buffers.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Memory.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Numerics.Vectors.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Text.Encodings.Web.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Text.Json.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\bin\Debug\System.ValueTuple.xml
+D:\RTC\01. Project\LADI.24.001\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\RTC\01. Project\LADI.24.001\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\RTC\01. Project\LADI.24.001\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\LADI.24.001\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\RTC\01. Project\LADI.24.001\RTCConst\obj\Debug\RTCConst.exe
+D:\RTC\01. Project\LADI.24.001\RTCConst\obj\Debug\RTCConst.pdb
+D:\RTC\01. Project\LADI.24.001\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\RTCConst.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\RTCConst.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\Emgu.CV.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Drawing.Common.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Text.Json.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\obj\Debug\RTCConst.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\RTCConst\obj\Debug\RTCConst.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\RTCConst.exe.config
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\RTCConst.exe
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\RTCConst.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\Emgu.CV.Bitmap.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\Emgu.CV.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Buffers.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Data.SQLite.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Drawing.Common.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Memory.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Text.Encodings.Web.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Text.Json.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.ValueTuple.dll
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\Emgu.CV.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\Emgu.CV.Bitmap.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Buffers.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Data.SQLite.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Drawing.Common.pdb
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Drawing.Common.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Memory.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Numerics.Vectors.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Text.Encodings.Web.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Text.Json.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\bin\Debug\System.ValueTuple.xml
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\obj\Debug\RTCConst.csproj.AssemblyReference.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\obj\Debug\RTCConst.Properties.Resources.resources
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\obj\Debug\RTCConst.csproj.GenerateResource.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\obj\Debug\RTCConst.csproj.CoreCompileInputs.cache
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\obj\Debug\RTCConst.csproj.CopyComplete
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\obj\Debug\RTCConst.exe
+D:\00. Project\03. 2024\129. LADI.24.001\SW\65. Discron_Diamond_070526 ver 1.1\RTCConst\obj\Debug\RTCConst.pdb

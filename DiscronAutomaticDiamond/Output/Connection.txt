@@ -1,0 +1,5 @@
+192.168.22.100
+3306
+rtc_fbassa_system
+line
+line1234!

@@ -1,0 +1,1177 @@
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\LADI.24.001.exe.config
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\LADI.24.001.exe
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\LADI.24.001.pdb
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Data.Desktop.v20.2.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Data.v20.2.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Printing.v20.2.Core.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Sparkline.v20.2.Core.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Utils.v20.2.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraBars.v20.2.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraEditors.v20.2.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Pdf.v20.2.Core.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Data.Desktop.v20.2.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Data.v20.2.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Printing.v20.2.Core.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Sparkline.v20.2.Core.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Utils.v20.2.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraBars.v20.2.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraEditors.v20.2.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Pdf.v20.2.Core.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Data.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Data.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Data.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Data.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Utils.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Utils.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.Form1.resources
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.GenerateResource.cache
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.licenses
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CoreCompileInputs.cache
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CopyComplete
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.pdb
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.AssemblyReference.cache
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\GraphiscWindow.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\Emgu.CV.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\Emgu.CV.Bitmap.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Memory.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Drawing.Common.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Buffers.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\GraphiscWindow.pdb
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\GraphiscWindow.dll.config
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Buffers.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraGrid.v20.2.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraLayout.v20.2.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraPrinting.v20.2.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.RichEdit.v20.2.Core.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraTreeList.v20.2.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Office.v20.2.Core.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraGrid.v20.2.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraLayout.v20.2.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraPrinting.v20.2.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.RichEdit.v20.2.Core.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraTreeList.v20.2.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Office.v20.2.Core.xml
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+D:\04. Project Vision\11. LADI\LADI.24\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.AssemblyReference.cache
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.GenerateResource.cache
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.licenses
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\LADI.24.001.exe.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\LADI.24.001.exe
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\LADI.24.001.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Data.Desktop.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Data.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Printing.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Sparkline.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Utils.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraBars.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraEditors.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraGrid.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraLayout.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraPrinting.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Pdf.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.RichEdit.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraTreeList.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Office.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Data.Desktop.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Data.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Printing.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Sparkline.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Utils.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraBars.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraEditors.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraGrid.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraLayout.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraPrinting.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Pdf.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.RichEdit.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.XtraTreeList.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\DevExpress.Office.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CopyComplete
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\GraphiscWindow.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\MvCamCtrl.Net.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\GraphiscWindow.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\GraphiscWindow.dll.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\MvCamCtrl.Net.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\RTCHikSdk.exe
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\RTCHikSdk.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\RTCHikSdk.exe.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\en-US\RTCHikSdk.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\zh-CHS\RTCHikSdk.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmMain.resources
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\Emgu.CV.Bitmap.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\Emgu.CV.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\FindLineTool.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\RTCBaseTypes.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\RTCConst.exe
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Buffers.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Drawing.Common.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Memory.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Text.Json.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.ValueTuple.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\FindLineTool.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\RTCConst.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\RTCConst.exe.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\Emgu.CV.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\Emgu.CV.Bitmap.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Buffers.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Drawing.Common.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Drawing.Common.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Memory.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Text.Encodings.Web.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Text.Json.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\bin\x64\Debug\System.ValueTuple.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\LADI.24.001.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\Emgu.CV.Bitmap.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\Emgu.CV.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\EntityFramework.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\EntityFramework.SqlServer.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\FindLineTool.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\Microsoft.Data.Sqlite.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\MvCamCtrl.Net.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCBaseTypes.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCConst.exe
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\SQLitePCLRaw.core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Buffers.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.EF6.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.Linq.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Memory.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Numerics.Vectors.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Text.Json.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.ValueTuple.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCEnums.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\FindLineTool.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\GraphiscWindow.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCConst.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCConst.exe.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCHikSdk.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\MvCamCtrl.Net.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCEnums.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\RTCEnums.dll.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.xml
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\en-US\RTCHikSdk.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\zh-CHS\RTCHikSdk.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\de\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\es\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\Emgu.CV.Platform.NetFramework.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\cvextern.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\opencv_videoio_ffmpeg481_64.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\concrt140.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\msvcp140.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\msvcp140_1.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\msvcp140_2.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\msvcp140_atomic_wait.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\msvcp140_codecvt_ids.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\vcruntime140.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\vcruntime140_1.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\MathNet.Numerics.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.config
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\SetOrigin.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\SetOrigin.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\Blob View.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.dll
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\Blob View.pdb
+D:\RTC\01. Project\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.AssemblyReference.cache
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.config
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmMain.resources
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.GenerateResource.cache
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.licenses
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CoreCompileInputs.cache
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe.config
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\LADI.24.001.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Emgu.CV.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Emgu.CV.Bitmap.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\cvextern.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\opencv_videoio_ffmpeg481_64.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Emgu.CV.Platform.NetFramework.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\concrt140.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\msvcp140.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\msvcp140_1.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\msvcp140_2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\msvcp140_atomic_wait.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\msvcp140_codecvt_ids.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\vcruntime140.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\vcruntime140_1.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\EntityFramework.SqlServer.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\EntityFramework.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\MathNet.Numerics.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Microsoft.Data.Sqlite.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\SQLitePCLRaw.core.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Buffers.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.EF6.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.Linq.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Memory.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Numerics.Vectors.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Runtime.CompilerServices.Unsafe.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Text.Encodings.Web.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Text.Json.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.Threading.Tasks.Extensions.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\System.ValueTuple.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Basler.Pylon.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Blob View.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\FindLineTool.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCBaseTypes.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCConst.exe
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\SetOrigin.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCEnums.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Blob View.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\FindLineTool.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\GraphiscWindow.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll.config
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe.config
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\SetOrigin.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCConst.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCConst.exe.config
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCHikSdk.pdb
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe.config
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\Basler.Pylon.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.xml
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\en-US\RTCHikSdk.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\zh-CHS\RTCHikSdk.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.Data.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.Data.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Data.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Data.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.Utils.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.Utils.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Utils.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Utils.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraBars.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraBars.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraBars.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraBars.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraGrid.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraGrid.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraGrid.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraGrid.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraLayout.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraLayout.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraLayout.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraLayout.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\de\DevExpress.Office.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\es\DevExpress.Office.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Office.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Office.v20.2.Core.resources.dll
+D:\HuyNT\LADI.24.001\LADI.24.001_0710\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\cvextern.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\opencv_videoio_ffmpeg481_64.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\concrt140.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\msvcp140.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\msvcp140_1.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\msvcp140_2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\msvcp140_atomic_wait.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\msvcp140_codecvt_ids.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\vcruntime140.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\vcruntime140_1.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\EntityFramework.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\MathNet.Numerics.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Basler.Pylon.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Blob View.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\FindLineTool.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCBaseTypes.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCConst.exe
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCEnums.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Blob View.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\FindLineTool.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\GraphiscWindow.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll.config
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCConst.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCHikSdk.pdb
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\Basler.Pylon.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\en-US\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\zh-CHS\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmMain.resources
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.licenses
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe.config
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\LADI.24.001.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Emgu.CV.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Emgu.CV.Bitmap.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\cvextern.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\opencv_videoio_ffmpeg481_64.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Emgu.CV.Platform.NetFramework.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\concrt140.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140_1.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140_2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140_atomic_wait.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140_codecvt_ids.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\vcruntime140.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\vcruntime140_1.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\EntityFramework.SqlServer.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\EntityFramework.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\MathNet.Numerics.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Microsoft.Data.Sqlite.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\SQLitePCLRaw.core.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Buffers.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.EF6.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.Linq.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Memory.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Numerics.Vectors.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Text.Encodings.Web.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Text.Json.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Threading.Tasks.Extensions.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.ValueTuple.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Basler.Pylon.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Blob View.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\FindLineTool.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\MvCamCtrl.Net.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCBaseTypes.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCConst.exe
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\SetOrigin.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCEnums.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Blob View.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\FindLineTool.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\GraphiscWindow.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll.config
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe.config
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\SetOrigin.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCConst.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCConst.exe.config
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCHikSdk.pdb
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe.config
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\Basler.Pylon.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\MvCamCtrl.Net.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.xml
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\en-US\RTCHikSdk.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\zh-CHS\RTCHikSdk.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Data.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Utils.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraBars.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraGrid.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraLayout.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Office.v20.2.Core.resources.dll
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.AssemblyReference.cache
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.config
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmMain.resources
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.GenerateResource.cache
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.licenses
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CoreCompileInputs.cache
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CopyComplete
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe
+D:\RTC\01. Project\2024-10-14-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\cvextern.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\opencv_videoio_ffmpeg481_64.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\concrt140.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140_1.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140_2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140_atomic_wait.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\msvcp140_codecvt_ids.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\vcruntime140.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\vcruntime140_1.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\EntityFramework.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\MathNet.Numerics.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Buffers.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Memory.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Basler.Pylon.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Blob View.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\FindLineTool.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCBaseTypes.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCConst.exe
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\SetOrigin.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCEnums.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Blob View.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\FindLineTool.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\GraphiscWindow.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll.config
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe.config
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCConst.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCHikSdk.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe.config
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\Basler.Pylon.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\en-US\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\zh-CHS\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmMain.resources
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\2024-10-15-LADI.24.001\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.licenses
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Emgu.CV.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Emgu.CV.Bitmap.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\cvextern.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\concrt140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\msvcp140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\msvcp140_1.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\msvcp140_2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\msvcp140_atomic_wait.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\msvcp140_codecvt_ids.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\vcruntime140.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\vcruntime140_1.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\EntityFramework.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\MathNet.Numerics.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Buffers.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Drawing.Common.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Memory.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Basler.Pylon.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Blob View.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\FindLineTool.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCBaseTypes.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCConst.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\SetOrigin.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCEnums.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Blob View.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Blob_Muilti_ROI.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\FindLineTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DistanceMeasurementTool.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\GraphiscWindow.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\GraphiscWindow.dll.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCBaslerSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\SetOrigin.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCConst.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCConst.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCHikSdk.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\RTCHikSdk.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\Basler.Pylon.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Data.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Utils.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraBars.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\DevExpress.Office.v20.2.Core.xml
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\en-US\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\zh-CHS\RTCHikSdk.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.config
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmMain.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmHistory.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.FrmSetting.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI._24._001.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe.licenses
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.exe
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\obj\x64\Debug\LADI.24.001.pdb
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\libusb-1.0.dll
+C:\Users\Lenovo\Desktop\LADI_Project\2024-10-15-LADI.24.001 ver2\LADI.24.001\LADI.24.001\Output\opencv_videoio_ffmpeg490_64.dll

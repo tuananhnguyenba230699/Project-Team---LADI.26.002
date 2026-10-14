@@ -1,0 +1,183 @@
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\bin\x86\Debug\RTCHikSdk.exe.config
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\bin\x86\Debug\RTCHikSdk.exe
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\bin\x86\Debug\RTCHikSdk.pdb
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\bin\x86\Debug\en-US\RTCHikSdk.resources.dll
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\bin\x86\Debug\zh-CHS\RTCHikSdk.resources.dll
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.AssemblyReference.cache
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.FrmMain.resources
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.Properties.Resources.resources
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.FrmMain.en-US.resources
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.FrmMain.zh-CHS.resources
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.GenerateResource.cache
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.CoreCompileInputs.cache
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\en-US\RTCHikSdk.resources.dll
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\zh-CHS\RTCHikSdk.resources.dll
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.exe
+D:\RTC\1. Project\01. RTCVision Lite231222023 Ver2.0\01. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.pdb
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\RTCHikSdk.exe.config
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\RTCHikSdk.exe
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\RTCHikSdk.pdb
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\en-US\RTCHikSdk.resources.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\zh-CHS\RTCHikSdk.resources.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\netstandard.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.AppContext.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Collections.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Collections.Specialized.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.ComponentModel.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Console.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Data.Common.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Globalization.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.Compression.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.FileSystem.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.Pipes.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Linq.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Linq.Expressions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Linq.Parallel.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Linq.Queryable.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.Http.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.NameResolution.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.Ping.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.Primitives.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.Requests.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.Security.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.Sockets.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Net.WebSockets.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.ObjectModel.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Reflection.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Resources.Reader.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Resources.Writer.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.Handles.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Security.Claims.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Security.Principal.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Security.SecureString.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Encoding.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.Tasks.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.Thread.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.Timer.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.ValueTuple.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Xml.XDocument.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Xml.XPath.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\Emgu.CV.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Buffers.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Memory.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Json.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\Emgu.CV.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Buffers.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Memory.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Encodings.Web.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Json.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.AssemblyReference.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.exe.config
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.FrmMain.resources
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.Properties.Resources.resources
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.FrmMain.en-US.resources
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.FrmMain.zh-CHS.resources
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.GenerateResource.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.CoreCompileInputs.cache
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\en-US\RTCHikSdk.resources.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\zh-CHS\RTCHikSdk.resources.dll
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.CopyComplete
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.exe
+D:\RTC\RTCVisionLite\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\RTCHikSdk.exe.config
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\RTCHikSdk.exe
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\RTCHikSdk.pdb
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\en-US\RTCHikSdk.resources.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\zh-CHS\RTCHikSdk.resources.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\Emgu.CV.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Buffers.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Memory.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Json.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\Emgu.CV.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Buffers.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Memory.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Encodings.Web.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Text.Json.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.AssemblyReference.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.FrmMain.resources
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.Properties.Resources.resources
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.FrmMain.en-US.resources
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.FrmMain.zh-CHS.resources
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.GenerateResource.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.CoreCompileInputs.cache
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\en-US\RTCHikSdk.resources.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\zh-CHS\RTCHikSdk.resources.dll
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.csproj.CopyComplete
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.exe
+D:\RTC\RTCVisionLite\RTCVision Lite_26082024_DangVer\RTCVision Lite_26082024\2. RTCVision Lite\RTCHikSdk\obj\x86\Debug\RTCHikSdk.pdb

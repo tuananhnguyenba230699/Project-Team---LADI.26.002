@@ -1,0 +1,9 @@
+D:\0. PROJECT\0. RTCVision\bin\Release\RTCBaslerSdk.dll
+D:\0. PROJECT\0. RTCVision\bin\Release\RTCBaslerSdk.pdb
+D:\0. PROJECT\0. RTCVision\RTCBaslerSdk\obj\Release\RTCBaslerSdk.csproj.AssemblyReference.cache
+D:\0. PROJECT\0. RTCVision\RTCBaslerSdk\obj\Release\RTCBaslerSdk.Properties.Resources.resources
+D:\0. PROJECT\0. RTCVision\RTCBaslerSdk\obj\Release\RTCBaslerSdk.csproj.GenerateResource.cache
+D:\0. PROJECT\0. RTCVision\RTCBaslerSdk\obj\Release\RTCBaslerSdk.csproj.CoreCompileInputs.cache
+D:\0. PROJECT\0. RTCVision\RTCBaslerSdk\obj\Release\RTCBaslerSdk.csproj.CopyComplete
+D:\0. PROJECT\0. RTCVision\RTCBaslerSdk\obj\Release\RTCBaslerSdk.dll
+D:\0. PROJECT\0. RTCVision\RTCBaslerSdk\obj\Release\RTCBaslerSdk.pdb

@@ -1,0 +1,948 @@
+2025/05/20 16:07:43 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21822025/05/20 16:05:45 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 806
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:45 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:45 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 803
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:44 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:44 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:44 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:43 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:04 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 806
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:04 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:03 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 803
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:03 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:03 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:03 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:05:02 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23662025/05/20 16:00:50 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23652025/05/20 16:00:50 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23652025/05/20 16:00:50 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23652025/05/20 16:00:50 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23652025/05/20 16:00:49 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23652025/05/20 15:56:13 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23652025/05/20 15:56:13 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23652025/05/20 15:56:12 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23652025/05/20 15:56:12 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23652025/05/20 15:55:36 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21812025/05/20 15:45:15 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:45:14 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 804
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:45:14 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:45:14 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:45:14 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:45:13 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:45:13 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:42:02 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:42:02 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 804
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:42:01 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:42:01 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:42:01 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:42:01 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 15:42:00 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23542025/05/20 14:25:31 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:25:31 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:25:31 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:22:19 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:22:19 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:22:18 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:22:18 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:22:18 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:22:17 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:22:17 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess()
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess()2025/05/20 14:15:26 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21602025/05/20 14:12:51 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 14:12:50 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 804
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 14:12:50 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 14:12:50 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 14:12:50 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 14:12:49 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 14:12:49 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 13:58:32 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 13:58:32 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 804
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 13:58:32 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 13:58:32 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 13:58:31 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 13:58:31 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 13:58:31 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23442025/05/20 13:51:40 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC()2025/05/20 13:48:13 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:48:13 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 804
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:48:13 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:48:13 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:48:12 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:48:12 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:48:12 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:45:27 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:45:27 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 804
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:45:26 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:45:26 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:45:26 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:45:26 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:45:25 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:36:06 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:36:05 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 804
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:36:05 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:36:05 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:36:05 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:36:04 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 13:36:04 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:59:07 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:59:07 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:59:07 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:59:06 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:56:33 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_ForeColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 805
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:56:33 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnStartProcess' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.PointToClientInternal(Point p)
+   at DevExpress.XtraEditors.BaseControl.LayoutChangedCore(Boolean invalidateVisual)
+   at DevExpress.XtraEditors.SimpleButton.LayoutChanged()
+   at DevExpress.XtraEditors.SimpleButton.OnPropertiesChanged()
+   at DevExpress.XtraEditors.BaseStyleControl.OnStyleChanged(Object sender, EventArgs e)
+   at DevExpress.Utils.AppearanceObject.OnChanged()
+   at DevExpress.Utils.AppearanceObject.set_BackColor(Color value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 804
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:56:33 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'btnSettingVision' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.ButtonBase.OnEnabledChanged(EventArgs e)
+   at System.Windows.Forms.Control.set_Enabled(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 802
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:56:33 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtDistanceRequest_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:56:32 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtAllowableDeviation_Milimet' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:56:32 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'txtGrind' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:56:32 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control '' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SendMessage(Int32 msg, Int32 wparam, Int32 lparam)
+   at System.Windows.Forms.TextBoxBase.set_ReadOnly(Boolean value)
+   at AutoBrutingDiamond.FrmMain.ClearProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 801
+   at AutoBrutingDiamond.FrmMain.CheckAlarm_MainProcess() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 23412025/05/20 11:39:18 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at AutoBrutingDiamond.Class.Lib.UpdateButtonText_BColor_FColor(Button btn, String text, Color bColor, Color fColor) in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Class\Lib.cs:line 148
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21422025/05/20 11:35:35 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:31 - Error
+THÔNG SỐ: 
+ReconnectPLC()
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at AutoBrutingDiamond.Class.Lib.UpdateButtonText_BColor_FColor(Button btn, String text, Color bColor, Color fColor) in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Class\Lib.cs:line 148
+   at AutoBrutingDiamond.FrmMain.ReconnectPLC_MC() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21422025/05/20 11:35:28 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:27 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:24 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:23 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:18 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:16 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:13 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:12 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:09 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:07 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:04 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:03 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:35:01 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:34:58 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:34:56 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:34:54 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:34:52 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:34:49 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 21962025/05/20 11:34:47 - Error
+THÔNG SỐ: 
+System.InvalidOperationException: Cross-thread operation not valid: Control 'GrindingStone_L' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.Update()
+   at DevExpress.XtraEditors.TrackBarControl.set_Value(Int32 value)
+   at AutoBrutingDiamond.FrmMain.CheckAlive() in C:\Users\Lenovo\Desktop\LADI_Project\31. Discron_Diamond_130525 ver 1.0\DiscronAutomaticDiamond\Forms\FrmMain.cs:line 2196
